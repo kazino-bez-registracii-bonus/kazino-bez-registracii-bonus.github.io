@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-bez-registracii-bonus.github.io
+Sitemap: https://kazino-bez-registracii-bonus.github.io/sitemap.xml
